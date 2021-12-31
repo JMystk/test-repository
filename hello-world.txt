@@ -1,12 +1,8 @@
 Hello World!
 This is a test file to demonstrate the use of Git forks and pull requests.
 
-Test feature 1 has been changed!
-
-
-Test feature 2 updated by JMyst!
-
-Test feature 3 implemented by JMyst!
-
-Test feature 3 implemented by JMystk!
-
+Feature1
+Feature2
+Feature3
+Feature4
+Feature5
