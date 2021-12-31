@@ -1,4 +1,6 @@
 Hello World!
 This is a test file to demonstrate the use of Git forks and pull requests.
 
-Test feature implemented!
+Test feature 1 has been changed!
+
+Test feature 2 implemented!
