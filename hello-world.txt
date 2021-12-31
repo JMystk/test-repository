@@ -3,6 +3,10 @@ This is a test file to demonstrate the use of Git forks and pull requests.
 
 Test feature 1 has been changed!
 
+
 Test feature 2 updated by JMyst!
 
 Test feature 3 implemented by JMyst!
+
+Test feature 3 implemented by JMystk!
+
