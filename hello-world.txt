@@ -1,10 +1,6 @@
 Hello World!
 This is a test file to demonstrate the use of Git forks and pull requests.
 
-Feature1
-Feature2
-Feature3
-Feature4
-Feature6
-Feature7
-Feature8
+Combined all features into one super feature!
+
+Bugfix
